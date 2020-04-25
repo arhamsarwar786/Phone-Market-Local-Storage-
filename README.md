@@ -1,4 +1,6 @@
-# Phone Market
+
+<span style="color:red;font-size:30px;font-weight:bolder;">Phone Market</span>
+
 
 
 ##### There are Some Important Points:
@@ -11,15 +13,15 @@
 * 
 
 ```javascript
+THE GIVEN FUNCTIONS ARE GENERAL:
+
 > Here add() Function is using to add amount as per Click:
 
     function add(){
-        i=i+47000
+        i=i+pricePhone
         counter1++;
         numbering++;
         _main()
     }
 ```
-
-
 
